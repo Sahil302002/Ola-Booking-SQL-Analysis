@@ -3,6 +3,9 @@
 
 This project focuses on analyzing the **Ola Bookings Dataset** to derive meaningful insights related to customer behavior, booking trends, and ride details. The analysis is done using SQL queries and views that explore various aspects of the dataset, including booking statuses, ride distances, cancellations, and payment methods. The main goal of this project is to explore, analyze, and present data-driven insights that can help improve operational efficiencies and customer satisfaction.
 
+![image](https://github.com/user-attachments/assets/ab8ec42f-0e9a-457b-bb1b-a403b2f04fe0)
+
+
 ## Tasks
 
 The primary tasks of this project include:
