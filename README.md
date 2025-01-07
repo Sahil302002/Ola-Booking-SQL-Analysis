@@ -35,6 +35,7 @@ This project leverages several essential SQL functions and techniques, including
 - **TOP (N)**: Used to limit results to the top N records based on certain conditions (e.g., top 10 customers with the highest rides).
 
  Link to SQL Script <a href = "Ola SQL Analytics Script.sql"> Ola SQL Code Script </a>
+ Link to SQL codes and Image of Result 
  
 ## Insights
 
