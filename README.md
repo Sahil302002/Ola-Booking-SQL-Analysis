@@ -34,6 +34,8 @@ This project leverages several essential SQL functions and techniques, including
 - **CAST and CONVERT**: For data type conversion to ensure numerical operations are accurate (e.g., converting `Ride_Distance` to a float for average calculation).
 - **TOP (N)**: Used to limit results to the top N records based on certain conditions (e.g., top 10 customers with the highest rides).
 
+ Link to SQL Script <a href = "Ola SQL Analytics Script.sql"> Ola SQL Code Script </a>
+ 
 ## Insights
 
 1. **Booking Success Rate**: The number of successful bookings provides a benchmark for understanding the overall performance of Ola's service.
