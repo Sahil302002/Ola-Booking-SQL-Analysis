@@ -21,6 +21,8 @@ The primary tasks of this project include:
 9. **Booking Value Analysis**: Calculate the total booking value of successful rides.
 10. **Incomplete Rides**: Identify incomplete rides and the reasons for the same.
 
+Dataset used in this Project<a href ="Bookings-100000-Rows.csv"> Ola Bokking Dataset
+
 ## SQL and Advanced SQL Functions Used
 
 This project leverages several essential SQL functions and techniques, including:
